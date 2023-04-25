@@ -3,8 +3,8 @@
 # Язык программирования
   Python 3.10
 # Библиотеки 
-  Tensorflow
-  Keras
-  Numpy
-  Matplotlib
-  PIL
+  Tensorflow,
+  Keras,
+  Numpy,
+  Matplotlib,
+  PIL.
